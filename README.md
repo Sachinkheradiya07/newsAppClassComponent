@@ -1,0 +1,2 @@
+# newsAppClassComponent
+newsAppClassComponent
